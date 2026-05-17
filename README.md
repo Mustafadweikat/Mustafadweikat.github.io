@@ -37,11 +37,11 @@ This project processes raw data from the 2021 Palestinian Agricultural Census to
 ## 📚 Major Publications & Achievements
 
 * **The Palestinian Atlas (2020):** Principal author and GIS developer. Compiled, analyzed, and mapped multi-layered spatial data into a cohesive published reference document for regional geospatial tracking.
-* **Electronic Budgeting System (2026):** Engineered a digital transformation budgeting layout tailored for financial administration tracking within the public security domain.
+* **Strategic Project Management:** Experienced in coordinating and managing technical and agricultural projects, ensuring alignment with strategic goals, optimized resource allocation, and rigorous data-driven quality control.
 
 ---
 
 ## 📬 Professional Links & Contact
 
-* **LinkedIn:** [Insert Your LinkedIn Profile Link Here]
-* **Upwork Portfolio:** [Insert Your Upwork Profile Link Here]
+* **LinkedIn:** [www.linkedin.com/in/mustafa-dweikat-gisandaidata]
+* **Upwork Portfolio:** [(https://www.upwork.com/freelancers/~012342f51aba93745b)]
