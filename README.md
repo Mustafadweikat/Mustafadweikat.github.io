@@ -41,7 +41,9 @@ This project processes raw data from the 2021 Palestinian Agricultural Census to
 
 ---
 
+---
+
 ## 📬 Professional Links & Contact
 
-* **LinkedIn:** [www.linkedin.com/in/mustafa-dweikat-gisandaidata]
-* **Upwork Portfolio:** [(https://www.upwork.com/freelancers/~012342f51aba93745b)]
+* **LinkedIn:** [Mustafa Dweikat](https://www.linkedin.com/in/mustafa-dweikat-gisandaidata)
+* **Upwork Portfolio:** [Mustafa Dweikat on Upwork](https://www.upwork.com/freelancers/~012342f51aba93745b)
