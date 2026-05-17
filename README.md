@@ -19,12 +19,12 @@ Notably, I authored and published **"The Palestinian Atlas" (2020)**, leveraging
 ### Spatial Optimization of Palestinian Agricultural Irrigation: A Python & QGIS Data Pipeline
 
 ### 📝 Project Overview
-This project processes raw data from the 2021 Palestinian Agricultural Census to evaluate, contrast, and visualize crop production efficiency metrics across different governorates and watering frameworks. By designing a custom automated data engine in Python, raw census arrays were cleaned, aggregated, and mapped spatially to expose regional high-performance benchmarks ![Palestinian Agricultural Irrigation Efficiency Map](map.png).
+This project processes raw data from the 2021 Palestinian Agricultural Census to evaluate, contrast, and visualize crop production efficiency metrics across different governorates and watering frameworks. By designing a custom automated data engine in Python, raw census arrays were cleaned, aggregated, and mapped spatially to expose regional high-performance benchmarks ![Palestinian Agricultural Irrigation Efficiency Map](map.jpg).
 
 ### 🔍 Core Project Metrics & Insights
 * **Regional Efficiency Benchmarks:** North Gaza registered the highest localized productivity efficiency index (47.39), proving that smaller land footprints can yield highly optimized agricultural returns under effective system management ![Agricultural Efficiency by Governorate Chart](chart1.png).
-* **Infrastructure Evaluation:** Modern pressurized delivery methods—specifically sprinkler systems (43.83 efficiency) and drip irrigation (31.55 efficiency)—vastly outperform traditional surface irrigation and extensive rainfed farming layout variants ![Irrigation Efficiency Chart](chart2.png).
-* **Peak Synergy Pairs:** Merging modern tech with specific micro-climates unlocks maximal output, proven by Tulkarm (Drip) and Nablus (Sprinklers) reaching peak efficiency indices of 94.93 and 94.24 respectively ![Top 10 Irrigation Efficiency Chart](chart3.png).
+* **Infrastructure Evaluation:** Modern pressurized delivery methods—specifically sprinkler systems (43.83 efficiency) and drip irrigation (31.55 efficiency)—vastly outperform traditional surface irrigation and extensive rainfed farming layout variants ![Top 10 Irrigation Efficiency Chart](chart3.png).
+* **Peak Synergy Pairs:** Merging modern tech with specific micro-climates unlocks maximal output, proven by Tulkarm (Drip) and Nablus (Sprinklers) reaching peak efficiency indices of 94.93 and 94.24 respectively ![Irrigation Efficiency Chart](chart2.png) .
 
 ### ⚙️ Data Pipeline Architecture
 1. **Data Ingestion & Integrity Control:** Formatted and cleaned raw data files, dynamically dropping incomplete records and standardizing system variables.
