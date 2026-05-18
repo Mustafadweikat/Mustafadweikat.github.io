@@ -1,17 +1,20 @@
 # Mustafa | Agricultural Engineer & AI Data Analyst
 
-I am an Agricultural Engineer and spatial data scientist specializing in the intersection of agronomy, AI programming, and geospatial technologies. Holding an AI Programming with Python and TensorFlow Nanodegree alongside extensive GIS and remote sensing experience, I build intelligent data pipelines to optimize agricultural production, resource allocation, and spatial planning. 
+I am an Agricultural Engineer and spatial data analyst with a strong interest in combining agronomy, artificial intelligence, and geospatial technologies to solve real-world agricultural and planning challenges. With an AI Programming with Python and TensorFlow Nanodegree and practical experience in GIS and remote sensing, I work on building data-driven workflows that support agricultural optimization, resource management, and spatial decision-making.
 
-Notably, I authored and published **"The Palestinian Atlas" (2020)**, leveraging comprehensive Geographic Information Systems (GIS) to map regional dynamics.
-
+One of my notable achievements was authoring and publishing “The Palestinian Atlas” (2020), where I used Geographic Information Systems (GIS) to analyze and visualize regional spatial dynamics through comprehensive mapping and data integration.
 ---
 
 ## 🛠️ Technical Core & Toolset
 
-* **Agronomy & Engineering:** Agricultural Production, Food Processing, Irrigation Efficiency Modeling.
-* **Geospatial & Remote Sensing:** QGIS, Esri ArcGIS, Spatial Analysis, Vector Data Management, Satellite Imagery Processing.
-* **AI & Data Science:** Python, TensorFlow, Pandas, NumPy, Predictive Modeling, Automated Reporting Solutions (`python-docx`).
+**Agronomy & Engineering**:
+Agricultural production systems, food processing, irrigation efficiency analysis, and agricultural resource management.
 
+**Geospatial & Remote Sensing**:
+QGIS, Esri ArcGIS, spatial analysis, vector data processing, satellite imagery interpretation, and geospatial data management.
+
+AI & Data Science:
+Python, TensorFlow, Pandas, NumPy, predictive analytics, and automated reporting solutions using python-docx.
 ---
 
 ## 🚀 Featured Project
@@ -19,25 +22,32 @@ Notably, I authored and published **"The Palestinian Atlas" (2020)**, leveraging
 ### Spatial Optimization of Palestinian Agricultural Irrigation: A Python & QGIS Data Pipeline
 
 ### 📝 Project Overview
-This project processes raw data from the 2021 Palestinian Agricultural Census to evaluate, contrast, and visualize crop production efficiency metrics across different governorates and watering frameworks. By designing a custom automated data engine in Python, raw census arrays were cleaned, aggregated, and mapped spatially to expose regional high-performance benchmarks ![Palestinian Agricultural Irrigation Efficiency Map](map.jpg).
+This project was developed using data from the 2021 Palestinian Agricultural Census to examine and visualize agricultural production efficiency across different governorates and irrigation systems. Using Python-based data processing and QGIS spatial analysis workflows, I cleaned, structured, and analyzed raw census datasets to identify regional efficiency patterns and generate spatial visualizations highlighting agricultural performance indicators ![Palestinian Agricultural Irrigation Efficiency Map](map.jpg).
 
 ### 🔍 Core Project Metrics & Insights
-* **Regional Efficiency Benchmarks:** North Gaza registered the highest localized productivity efficiency index (47.39), proving that smaller land footprints can yield highly optimized agricultural returns under effective system management ![Agricultural Efficiency by Governorate Chart](chart1.png).
-* **Infrastructure Evaluation:** Modern pressurized delivery methods—specifically sprinkler systems (43.83 efficiency) and drip irrigation (31.55 efficiency)—vastly outperform traditional surface irrigation and extensive rainfed farming layout variants ![Top 10 Irrigation Efficiency Chart](chart3.png).
-* **Peak Synergy Pairs:** Merging modern tech with specific micro-climates unlocks maximal output, proven by Tulkarm (Drip) and Nablus (Sprinklers) reaching peak efficiency indices of 94.93 and 94.24 respectively ![Irrigation Efficiency Chart](chart2.png) .
+* **Regional Efficiency Benchmarks:** North Gaza achieved the highest localized agricultural productivity efficiency index (47.39), demonstrating how optimized management practices can produce strong agricultural returns even within limited land areas ![Agricultural Efficiency by Governorate Chart](chart1.png).
+* **Infrastructure Evaluation:** Modern irrigation methods, especially sprinkler systems (43.83 efficiency) and drip irrigation (31.55 efficiency), showed significantly stronger performance compared to traditional surface irrigation and rainfed agricultural systems ![Top 10 Irrigation Efficiency Chart](chart3.png).
+* **Peak Synergy Pairs:** The analysis also revealed that combining modern irrigation technologies with suitable regional environmental conditions can dramatically increase productivity, as seen in Tulkarm (Drip Irrigation) and Nablus (Sprinkler Systems), which recorded efficiency indices of 94.93 and 94.24 respectively ![Irrigation Efficiency Chart](chart2.png) .
 
 ### ⚙️ Data Pipeline Architecture
-1. **Data Ingestion & Integrity Control:** Formatted and cleaned raw data files, dynamically dropping incomplete records and standardizing system variables.
-2. **Multi-Index Matrix Aggregation:** Applied Pandas grouping logic to isolate intersecting regional variables, calculating absolute land area-to-yield efficiency scales.
-3. **Geospatial Layout Generation:** Migrated structured tables into QGIS, executing spatial joins against regional boundaries to compile classified choropleth analytical maps.
-4. **Document Delivery Automation:** Developed a script using the `python-docx` API workspace to programmatically generate data summaries, formatted tables, and structured reporting documents.
+1. **Data Ingestion & Integrity Control**:
+Processed and cleaned raw agricultural datasets while handling incomplete records and standardizing variables for accurate analysis.
+
+2.**Multi-Index Matrix Aggregation**:
+Applied Pandas-based grouping and aggregation techniques to evaluate relationships between crop yield, cultivated area, and regional irrigation systems.
+
+3. **Geospatial Layout Generation**:
+Integrated processed datasets into QGIS and performed spatial joins with administrative boundary layers to produce classified choropleth and analytical maps.
+
+4. **Document Delivery Automation**:
+Developed automated reporting workflows using the python-docx library to generate structured summaries, formatted tables, and analytical reports programmatically.
 
 ---
 
 ## 📚 Major Publications & Achievements
 
-* **The Palestinian Atlas (2020):** Principal author and GIS developer. Compiled, analyzed, and mapped multi-layered spatial data into a cohesive published reference document for regional geospatial tracking.
-* **Strategic Project Management:** Experienced in coordinating and managing technical and agricultural projects, ensuring alignment with strategic goals, optimized resource allocation, and rigorous data-driven quality control.
+* **The Palestinian Atlas (2020):** Principal author and GIS developer responsible for compiling, analyzing, and visualizing multi-layered spatial datasets into a published geospatial reference document focused on Palestine.
+* **Strategic Project Management:** Experienced in coordinating technical and agricultural projects with an emphasis on strategic planning, efficient resource allocation, and data-driven monitoring and evaluation.
 
 ---
 
